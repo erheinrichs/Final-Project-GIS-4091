@@ -1,0 +1,1346 @@
+[
+  {
+    "country": "China",
+    "activeDuty": 2185000,
+    "paramilitary": 660000,
+    "reserves": 1170000,
+    "total": 4015000,
+    "pop2022": "1448471.4000"
+  },
+  {
+    "country": "India",
+    "activeDuty": 1455550,
+    "paramilitary": 2526950,
+    "reserves": 1155000,
+    "total": 5137500,
+    "pop2022": "1406631.7760"
+  },
+  {
+    "country": "United States",
+    "activeDuty": 1388100,
+    "paramilitary": 0,
+    "reserves": 844950,
+    "total": 2233050,
+    "pop2022": "334805.2690"
+  },
+  {
+    "country": "North Korea",
+    "activeDuty": 1280000,
+    "paramilitary": 5889000,
+    "reserves": 600000,
+    "total": 7769000,
+    "pop2022": "25990.6790"
+  },
+  {
+    "country": "Russia",
+    "activeDuty": 1014000,
+    "paramilitary": 554000,
+    "reserves": 2000000,
+    "total": 3568000,
+    "pop2022": "145805.9470"
+  },
+  {
+    "country": "Pakistan",
+    "activeDuty": 654000,
+    "paramilitary": 291000,
+    "reserves": 550000,
+    "total": 1495000,
+    "pop2022": "229488.9940"
+  },
+  {
+    "country": "Iran",
+    "activeDuty": 610000,
+    "paramilitary": 40000,
+    "reserves": 350000,
+    "total": 1000000,
+    "pop2022": "86022.8370"
+  },
+  {
+    "country": "South Korea",
+    "activeDuty": 599000,
+    "paramilitary": 3013500,
+    "reserves": 3100000,
+    "total": 6712500,
+    "pop2022": "51329.8990"
+  },
+  {
+    "country": "Vietnam",
+    "activeDuty": 482000,
+    "paramilitary": 5040000,
+    "reserves": 5000000,
+    "total": 10522000,
+    "pop2022": "98953.5410"
+  },
+  {
+    "country": "Egypt",
+    "activeDuty": 438500,
+    "paramilitary": 397000,
+    "reserves": 479000,
+    "total": 1314500,
+    "pop2022": "106156.6920"
+  },
+  {
+    "country": "Myanmar",
+    "activeDuty": 406000,
+    "paramilitary": 107000,
+    "reserves": 0,
+    "total": 513000,
+    "pop2022": "55227.1430"
+  },
+  {
+    "country": "Indonesia",
+    "activeDuty": 395500,
+    "paramilitary": 280000,
+    "reserves": 400000,
+    "total": 1075500,
+    "pop2022": "279134.5050"
+  },
+  {
+    "country": "Brazil",
+    "activeDuty": 366500,
+    "paramilitary": 395000,
+    "reserves": 1340000,
+    "total": 2101500,
+    "pop2022": "215353.5930"
+  },
+  {
+    "country": "Thailand",
+    "activeDuty": 360850,
+    "paramilitary": 138700,
+    "reserves": 200000,
+    "total": 699550,
+    "pop2022": "70078.2030"
+  },
+  {
+    "country": "Turkey",
+    "activeDuty": 355200,
+    "paramilitary": 156800,
+    "reserves": 378700,
+    "total": 890700,
+    "pop2022": "85561.9760"
+  },
+  {
+    "country": "Colombia",
+    "activeDuty": 293200,
+    "paramilitary": 187900,
+    "reserves": 34950,
+    "total": 516050,
+    "pop2022": "51512.7620"
+  },
+  {
+    "country": "Sri Lanka",
+    "activeDuty": 255000,
+    "paramilitary": 92600,
+    "reserves": 5500,
+    "total": 353100,
+    "pop2022": "21575.8420"
+  },
+  {
+    "country": "Japan",
+    "activeDuty": 247150,
+    "paramilitary": 14350,
+    "reserves": 56000,
+    "total": 317500,
+    "pop2022": "125584.8380"
+  },
+  {
+    "country": "Saudi Arabia",
+    "activeDuty": 227000,
+    "paramilitary": 24500,
+    "reserves": 0,
+    "total": 251500,
+    "pop2022": "35844.9090"
+  },
+  {
+    "country": "Mexico",
+    "activeDuty": 216000,
+    "paramilitary": 111900,
+    "reserves": 81500,
+    "total": 409400,
+    "pop2022": "131562.7720"
+  },
+  {
+    "country": "Ukraine",
+    "activeDuty": 209000,
+    "paramilitary": 102000,
+    "reserves": 900000,
+    "total": 1211000,
+    "pop2022": "43192.1220"
+  },
+  {
+    "country": "France",
+    "activeDuty": 203250,
+    "paramilitary": 130800,
+    "reserves": 41050,
+    "total": 375100,
+    "pop2022": "65584.5180"
+  },
+  {
+    "country": "Eritrea",
+    "activeDuty": 201750,
+    "paramilitary": 0,
+    "reserves": 120000,
+    "total": 321750,
+    "pop2022": "3662.2440"
+  },
+  {
+    "country": "Morocco",
+    "activeDuty": 195800,
+    "paramilitary": 50000,
+    "reserves": 150000,
+    "total": 395800,
+    "pop2022": "37772.7560"
+  },
+  {
+    "country": "Iraq",
+    "activeDuty": 193000,
+    "paramilitary": 148000,
+    "reserves": 0,
+    "total": 341000,
+    "pop2022": "42164.9650"
+  },
+  {
+    "country": "South Sudan",
+    "activeDuty": 185000,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 185000,
+    "pop2022": "11618.5110"
+  },
+  {
+    "country": "Germany",
+    "activeDuty": 183500,
+    "paramilitary": 0,
+    "reserves": 30050,
+    "total": 213550,
+    "pop2022": "83883.5960"
+  },
+  {
+    "country": "Afghanistan",
+    "activeDuty": 178800,
+    "paramilitary": 99000,
+    "reserves": 0,
+    "total": 277800,
+    "pop2022": "40754.3880"
+  },
+  {
+    "country": "Israel",
+    "activeDuty": 169500,
+    "paramilitary": 8000,
+    "reserves": 465000,
+    "total": 642500,
+    "pop2022": "8922.8920"
+  },
+  {
+    "country": "Syria",
+    "activeDuty": 169000,
+    "paramilitary": 100000,
+    "reserves": 0,
+    "total": 269000,
+    "pop2022": "19364.8090"
+  },
+  {
+    "country": "Italy",
+    "activeDuty": 165500,
+    "paramilitary": 175750,
+    "reserves": 18300,
+    "total": 359550,
+    "pop2022": "60262.7700"
+  },
+  {
+    "country": "Bangladesh",
+    "activeDuty": 163050,
+    "paramilitary": 63900,
+    "reserves": 0,
+    "total": 226950,
+    "pop2022": "167885.6890"
+  },
+  {
+    "country": "Taiwan",
+    "activeDuty": 163000,
+    "paramilitary": 11800,
+    "reserves": 1657000,
+    "total": 1831800,
+    "pop2022": "23888.5950"
+  },
+  {
+    "country": "United Kingdom",
+    "activeDuty": 148500,
+    "paramilitary": 0,
+    "reserves": 78600,
+    "total": 227100,
+    "pop2022": "68497.9070"
+  },
+  {
+    "country": "Philippines",
+    "activeDuty": 143100,
+    "paramilitary": 62300,
+    "reserves": 131000,
+    "total": 336400,
+    "pop2022": "112508.9940"
+  },
+  {
+    "country": "Nigeria",
+    "activeDuty": 143000,
+    "paramilitary": 80000,
+    "reserves": 0,
+    "total": 223000,
+    "pop2022": "216746.9340"
+  },
+  {
+    "country": "Greece",
+    "activeDuty": 142700,
+    "paramilitary": 4000,
+    "reserves": 221350,
+    "total": 368050,
+    "pop2022": "10316.6370"
+  },
+  {
+    "country": "Ethiopia",
+    "activeDuty": 138000,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 138000,
+    "pop2022": "120812.6980"
+  },
+  {
+    "country": "DR Congo",
+    "activeDuty": 134250,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 134250,
+    "pop2022": "95240.7920"
+  },
+  {
+    "country": "Algeria",
+    "activeDuty": 130000,
+    "paramilitary": 187200,
+    "reserves": 150000,
+    "total": 467200,
+    "pop2022": "45350.1480"
+  },
+  {
+    "country": "Azerbaijan",
+    "activeDuty": 126950,
+    "paramilitary": 15000,
+    "reserves": 330000,
+    "total": 471950,
+    "pop2022": "10300.2050"
+  },
+  {
+    "country": "Cambodia",
+    "activeDuty": 124300,
+    "paramilitary": 67000,
+    "reserves": 0,
+    "total": 191300,
+    "pop2022": "17168.6390"
+  },
+  {
+    "country": "Venezuela",
+    "activeDuty": 123000,
+    "paramilitary": 220000,
+    "reserves": 8000,
+    "total": 351000,
+    "pop2022": "29266.9910"
+  },
+  {
+    "country": "Spain",
+    "activeDuty": 120350,
+    "paramilitary": 75800,
+    "reserves": 15150,
+    "total": 211300,
+    "pop2022": "46719.1420"
+  },
+  {
+    "country": "Poland",
+    "activeDuty": 114050,
+    "paramilitary": 75400,
+    "reserves": 0,
+    "total": 189450,
+    "pop2022": "37739.7850"
+  },
+  {
+    "country": "Malaysia",
+    "activeDuty": 113000,
+    "paramilitary": 267200,
+    "reserves": 51600,
+    "total": 431800,
+    "pop2022": "33181.0720"
+  },
+  {
+    "country": "Angola",
+    "activeDuty": 107000,
+    "paramilitary": 10000,
+    "reserves": 0,
+    "total": 117000,
+    "pop2022": "35027.3430"
+  },
+  {
+    "country": "Sudan",
+    "activeDuty": 104300,
+    "paramilitary": 105000,
+    "reserves": 0,
+    "total": 209300,
+    "pop2022": "45992.0200"
+  },
+  {
+    "country": "Jordan",
+    "activeDuty": 100500,
+    "paramilitary": 15000,
+    "reserves": 65000,
+    "total": 180500,
+    "pop2022": "10300.8690"
+  },
+  {
+    "country": "Nepal",
+    "activeDuty": 96600,
+    "paramilitary": 15000,
+    "reserves": 0,
+    "total": 111600,
+    "pop2022": "30225.5820"
+  },
+  {
+    "country": "Peru",
+    "activeDuty": 81000,
+    "paramilitary": 77000,
+    "reserves": 188000,
+    "total": 346000,
+    "pop2022": "33684.2080"
+  },
+  {
+    "country": "Chile",
+    "activeDuty": 77200,
+    "paramilitary": 44700,
+    "reserves": 40000,
+    "total": 161900,
+    "pop2022": "19250.1950"
+  },
+  {
+    "country": "Argentina",
+    "activeDuty": 72100,
+    "paramilitary": 31250,
+    "reserves": 0,
+    "total": 103350,
+    "pop2022": "46010.2340"
+  },
+  {
+    "country": "Romania",
+    "activeDuty": 69300,
+    "paramilitary": 57000,
+    "reserves": 50000,
+    "total": 176300,
+    "pop2022": "19031.3350"
+  },
+  {
+    "country": "Canada",
+    "activeDuty": 67400,
+    "paramilitary": 4500,
+    "reserves": 35600,
+    "total": 107500,
+    "pop2022": "38388.4190"
+  },
+  {
+    "country": "South Africa",
+    "activeDuty": 65350,
+    "paramilitary": 0,
+    "reserves": 15050,
+    "total": 80400,
+    "pop2022": "60756.1350"
+  },
+  {
+    "country": "United Arab Emirates",
+    "activeDuty": 63000,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 63000,
+    "pop2022": "10081.7850"
+  },
+  {
+    "country": "Lebanon",
+    "activeDuty": 60000,
+    "paramilitary": 20000,
+    "reserves": 0,
+    "total": 80000,
+    "pop2022": "6684.8490"
+  },
+  {
+    "country": "Australia",
+    "activeDuty": 58600,
+    "paramilitary": 0,
+    "reserves": 30100,
+    "total": 88700,
+    "pop2022": "26068.7920"
+  },
+  {
+    "country": "Dominican Republic",
+    "activeDuty": 56050,
+    "paramilitary": 15000,
+    "reserves": 0,
+    "total": 71050,
+    "pop2022": "11056.3700"
+  },
+  {
+    "country": "Singapore",
+    "activeDuty": 51000,
+    "paramilitary": 7400,
+    "reserves": 252500,
+    "total": 310900,
+    "pop2022": "5943.5460"
+  },
+  {
+    "country": "Cuba",
+    "activeDuty": 49000,
+    "paramilitary": 1146500,
+    "reserves": 39000,
+    "total": 1234500,
+    "pop2022": "11305.6520"
+  },
+  {
+    "country": "Uzbekistan",
+    "activeDuty": 48000,
+    "paramilitary": 20000,
+    "reserves": 0,
+    "total": 68000,
+    "pop2022": "34382.0840"
+  },
+  {
+    "country": "Belarus",
+    "activeDuty": 45350,
+    "paramilitary": 110000,
+    "reserves": 289500,
+    "total": 444850,
+    "pop2022": "9432.8000"
+  },
+  {
+    "country": "Uganda",
+    "activeDuty": 45000,
+    "paramilitary": 1400,
+    "reserves": 10000,
+    "total": 56400,
+    "pop2022": "48432.8630"
+  },
+  {
+    "country": "Armenia",
+    "activeDuty": 44800,
+    "paramilitary": 4300,
+    "reserves": 210000,
+    "total": 259100,
+    "pop2022": "2971.9660"
+  },
+  {
+    "country": "Oman",
+    "activeDuty": 42600,
+    "paramilitary": 4400,
+    "reserves": 0,
+    "total": 47000,
+    "pop2022": "5323.9930"
+  },
+  {
+    "country": "Ecuador",
+    "activeDuty": 40250,
+    "paramilitary": 500,
+    "reserves": 118000,
+    "total": 158750,
+    "pop2022": "18113.3610"
+  },
+  {
+    "country": "Yemen",
+    "activeDuty": 40000,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 40000,
+    "pop2022": "31154.8670"
+  },
+  {
+    "country": "Kazakhstan",
+    "activeDuty": 39000,
+    "paramilitary": 31500,
+    "reserves": 0,
+    "total": 70500,
+    "pop2022": "19205.0430"
+  },
+  {
+    "country": "Bulgaria",
+    "activeDuty": 36950,
+    "paramilitary": 0,
+    "reserves": 3000,
+    "total": 39950,
+    "pop2022": "6844.5970"
+  },
+  {
+    "country": "Turkmenistan",
+    "activeDuty": 36500,
+    "paramilitary": 5000,
+    "reserves": 0,
+    "total": 41500,
+    "pop2022": "6201.9430"
+  },
+  {
+    "country": "Tunisia",
+    "activeDuty": 35800,
+    "paramilitary": 12000,
+    "reserves": 0,
+    "total": 47800,
+    "pop2022": "12046.6560"
+  },
+  {
+    "country": "Netherlands",
+    "activeDuty": 35400,
+    "paramilitary": 5900,
+    "reserves": 4500,
+    "total": 45800,
+    "pop2022": "17211.4470"
+  },
+  {
+    "country": "Bolivia",
+    "activeDuty": 34100,
+    "paramilitary": 37100,
+    "reserves": 0,
+    "total": 71200,
+    "pop2022": "11992.6560"
+  },
+  {
+    "country": "Chad",
+    "activeDuty": 33250,
+    "paramilitary": 11900,
+    "reserves": 0,
+    "total": 45150,
+    "pop2022": "17413.5800"
+  },
+  {
+    "country": "Rwanda",
+    "activeDuty": 33000,
+    "paramilitary": 2000,
+    "reserves": 0,
+    "total": 35000,
+    "pop2022": "13600.4640"
+  },
+  {
+    "country": "Burundi",
+    "activeDuty": 30050,
+    "paramilitary": 21000,
+    "reserves": 0,
+    "total": 51050,
+    "pop2022": "12624.8400"
+  },
+  {
+    "country": "Sweden",
+    "activeDuty": 29750,
+    "paramilitary": 21200,
+    "reserves": 0,
+    "total": 50950,
+    "pop2022": "10218.9710"
+  },
+  {
+    "country": "Laos",
+    "activeDuty": 29100,
+    "paramilitary": 100000,
+    "reserves": 0,
+    "total": 129100,
+    "pop2022": "7481.0230"
+  },
+  {
+    "country": "Zimbabwe",
+    "activeDuty": 29000,
+    "paramilitary": 21800,
+    "reserves": 0,
+    "total": 50800,
+    "pop2022": "15331.4280"
+  },
+  {
+    "country": "Serbia",
+    "activeDuty": 28150,
+    "paramilitary": 3700,
+    "reserves": 50150,
+    "total": 82000,
+    "pop2022": "8653.0160"
+  },
+  {
+    "country": "Hungary",
+    "activeDuty": 27800,
+    "paramilitary": 12000,
+    "reserves": 20000,
+    "total": 59800,
+    "pop2022": "9606.2590"
+  },
+  {
+    "country": "Ivory Coast",
+    "activeDuty": 27400,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 27400,
+    "pop2022": "27742.2980"
+  },
+  {
+    "country": "Portugal",
+    "activeDuty": 27250,
+    "paramilitary": 24700,
+    "reserves": 211700,
+    "total": 263650,
+    "pop2022": "10140.5700"
+  },
+  {
+    "country": "Tanzania",
+    "activeDuty": 27000,
+    "paramilitary": 1400,
+    "reserves": 80000,
+    "total": 108400,
+    "pop2022": "63298.5500"
+  },
+  {
+    "country": "Belgium",
+    "activeDuty": 26300,
+    "paramilitary": 0,
+    "reserves": 5100,
+    "total": 31400,
+    "pop2022": "11668.2780"
+  },
+  {
+    "country": "Cameroon",
+    "activeDuty": 25400,
+    "paramilitary": 9000,
+    "reserves": 0,
+    "total": 34400,
+    "pop2022": "27911.5480"
+  },
+  {
+    "country": "El Salvador",
+    "activeDuty": 24500,
+    "paramilitary": 17000,
+    "reserves": 9900,
+    "total": 51400,
+    "pop2022": "6550.3890"
+  },
+  {
+    "country": "Kenya",
+    "activeDuty": 24100,
+    "paramilitary": 5000,
+    "reserves": 0,
+    "total": 29100,
+    "pop2022": "56215.2210"
+  },
+  {
+    "country": "Finland",
+    "activeDuty": 23800,
+    "paramilitary": 14200,
+    "reserves": 216000,
+    "total": 254000,
+    "pop2022": "5554.9600"
+  },
+  {
+    "country": "Norway",
+    "activeDuty": 23250,
+    "paramilitary": 0,
+    "reserves": 40000,
+    "total": 63250,
+    "pop2022": "5511.3700"
+  },
+  {
+    "country": "Austria",
+    "activeDuty": 22050,
+    "paramilitary": 0,
+    "reserves": 125600,
+    "total": 147650,
+    "pop2022": "9066.7100"
+  },
+  {
+    "country": "Czech Republic",
+    "activeDuty": 21750,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 21750,
+    "pop2022": "10736.7840"
+  },
+  {
+    "country": "Uruguay",
+    "activeDuty": 21000,
+    "paramilitary": 1400,
+    "reserves": 0,
+    "total": 22400,
+    "pop2022": "3496.0160"
+  },
+  {
+    "country": "Georgia",
+    "activeDuty": 20650,
+    "paramilitary": 5400,
+    "reserves": 0,
+    "total": 26050,
+    "pop2022": "3968.7380"
+  },
+  {
+    "country": "Lithuania",
+    "activeDuty": 19850,
+    "paramilitary": 14400,
+    "reserves": 6700,
+    "total": 40950,
+    "pop2022": "2661.7080"
+  },
+  {
+    "country": "Somalia",
+    "activeDuty": 19800,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 19800,
+    "pop2022": "16841.7950"
+  },
+  {
+    "country": "Switzerland",
+    "activeDuty": 19550,
+    "paramilitary": 0,
+    "reserves": 196450,
+    "total": 216000,
+    "pop2022": "8773.6370"
+  },
+  {
+    "country": "Guatemala",
+    "activeDuty": 18050,
+    "paramilitary": 25000,
+    "reserves": 63850,
+    "total": 106900,
+    "pop2022": "18584.0390"
+  },
+  {
+    "country": "Kuwait",
+    "activeDuty": 17500,
+    "paramilitary": 7100,
+    "reserves": 23700,
+    "total": 48300,
+    "pop2022": "4380.3260"
+  },
+  {
+    "country": "Qatar",
+    "activeDuty": 16500,
+    "paramilitary": 5000,
+    "reserves": 0,
+    "total": 21500,
+    "pop2022": "2979.9150"
+  },
+  {
+    "country": "Slovakia",
+    "activeDuty": 15850,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 15850,
+    "pop2022": "5460.1930"
+  },
+  {
+    "country": "Mauritania",
+    "activeDuty": 15850,
+    "paramilitary": 5000,
+    "reserves": 0,
+    "total": 20850,
+    "pop2022": "4901.9810"
+  },
+  {
+    "country": "Ghana",
+    "activeDuty": 15500,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 15500,
+    "pop2022": "32395.4500"
+  },
+  {
+    "country": "Croatia",
+    "activeDuty": 15200,
+    "paramilitary": 3000,
+    "reserves": 18350,
+    "total": 36550,
+    "pop2022": "4059.2860"
+  },
+  {
+    "country": "Zambia",
+    "activeDuty": 15100,
+    "paramilitary": 1400,
+    "reserves": 3000,
+    "total": 19500,
+    "pop2022": "19470.2340"
+  },
+  {
+    "country": "Cyprus",
+    "activeDuty": 15000,
+    "paramilitary": 750,
+    "reserves": 50000,
+    "total": 65750,
+    "pop2022": "1223.3870"
+  },
+  {
+    "country": "Honduras",
+    "activeDuty": 14950,
+    "paramilitary": 8000,
+    "reserves": 60000,
+    "total": 82950,
+    "pop2022": "10221.2470"
+  },
+  {
+    "country": "Denmark",
+    "activeDuty": 14500,
+    "paramilitary": 0,
+    "reserves": 44000,
+    "total": 58500,
+    "pop2022": "5834.9500"
+  },
+  {
+    "country": "Paraguay",
+    "activeDuty": 13950,
+    "paramilitary": 14800,
+    "reserves": 164500,
+    "total": 193250,
+    "pop2022": "7305.8430"
+  },
+  {
+    "country": "Senegal",
+    "activeDuty": 13600,
+    "paramilitary": 5000,
+    "reserves": 0,
+    "total": 18600,
+    "pop2022": "17653.6710"
+  },
+  {
+    "country": "Madagascar",
+    "activeDuty": 13500,
+    "paramilitary": 8100,
+    "reserves": 0,
+    "total": 21600,
+    "pop2022": "29178.0770"
+  },
+  {
+    "country": "Mali",
+    "activeDuty": 13000,
+    "paramilitary": 7800,
+    "reserves": 0,
+    "total": 20800,
+    "pop2022": "21473.7640"
+  },
+  {
+    "country": "Nicaragua",
+    "activeDuty": 12000,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 12000,
+    "pop2022": "6779.1000"
+  },
+  {
+    "country": "Mozambique",
+    "activeDuty": 11200,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 11200,
+    "pop2022": "33089.4610"
+  },
+  {
+    "country": "Burkina Faso",
+    "activeDuty": 11200,
+    "paramilitary": 250,
+    "reserves": 0,
+    "total": 11450,
+    "pop2022": "22102.8380"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "activeDuty": 10900,
+    "paramilitary": 9500,
+    "reserves": 0,
+    "total": 20400,
+    "pop2022": "6728.2710"
+  },
+  {
+    "country": "Malawi",
+    "activeDuty": 10700,
+    "paramilitary": 4200,
+    "reserves": 0,
+    "total": 14900,
+    "pop2022": "20180.8390"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "activeDuty": 10500,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 10500,
+    "pop2022": "3249.3170"
+  },
+  {
+    "country": "Djibouti",
+    "activeDuty": 10450,
+    "paramilitary": 2650,
+    "reserves": 0,
+    "total": 13100,
+    "pop2022": "1016.0970"
+  },
+  {
+    "country": "Republic of the Congo",
+    "activeDuty": 10000,
+    "paramilitary": 2000,
+    "reserves": 0,
+    "total": 12000,
+    "pop2022": "5797.8050"
+  },
+  {
+    "country": "Namibia",
+    "activeDuty": 9900,
+    "paramilitary": 6000,
+    "reserves": 0,
+    "total": 15900,
+    "pop2022": "2633.8740"
+  },
+  {
+    "country": "Guinea",
+    "activeDuty": 9700,
+    "paramilitary": 2600,
+    "reserves": 0,
+    "total": 12300,
+    "pop2022": "13865.6910"
+  },
+  {
+    "country": "Mongolia",
+    "activeDuty": 9700,
+    "paramilitary": 7500,
+    "reserves": 137000,
+    "total": 154200,
+    "pop2022": "3378.0780"
+  },
+  {
+    "country": "Ireland",
+    "activeDuty": 9500,
+    "paramilitary": 0,
+    "reserves": 4050,
+    "total": 13550,
+    "pop2022": "5020.1990"
+  },
+  {
+    "country": "Central African Republic",
+    "activeDuty": 9150,
+    "paramilitary": 1000,
+    "reserves": 0,
+    "total": 10150,
+    "pop2022": "5016.6780"
+  },
+  {
+    "country": "Botswana",
+    "activeDuty": 9000,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 9000,
+    "pop2022": "2441.1620"
+  },
+  {
+    "country": "New Zealand",
+    "activeDuty": 9000,
+    "paramilitary": 0,
+    "reserves": 2300,
+    "total": 11300,
+    "pop2022": "4898.2030"
+  },
+  {
+    "country": "Tajikistan",
+    "activeDuty": 8800,
+    "paramilitary": 7500,
+    "reserves": 0,
+    "total": 16300,
+    "pop2022": "9957.4640"
+  },
+  {
+    "country": "Togo",
+    "activeDuty": 8550,
+    "paramilitary": 750,
+    "reserves": 0,
+    "total": 9300,
+    "pop2022": "8680.8370"
+  },
+  {
+    "country": "Sierra Leone",
+    "activeDuty": 8500,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 8500,
+    "pop2022": "8306.4360"
+  },
+  {
+    "country": "Bahrain",
+    "activeDuty": 8200,
+    "paramilitary": 11260,
+    "reserves": 0,
+    "total": 19460,
+    "pop2022": "1783.9830"
+  },
+  {
+    "country": "Albania",
+    "activeDuty": 8000,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 8000,
+    "pop2022": "2866.3740"
+  },
+  {
+    "country": "North Macedonia",
+    "activeDuty": 8000,
+    "paramilitary": 7600,
+    "reserves": 4850,
+    "total": 20450,
+    "pop2022": "2081.3040"
+  },
+  {
+    "country": "Benin",
+    "activeDuty": 7250,
+    "paramilitary": 4800,
+    "reserves": 0,
+    "total": 12050,
+    "pop2022": "12784.7260"
+  },
+  {
+    "country": "Slovenia",
+    "activeDuty": 7250,
+    "paramilitary": 5950,
+    "reserves": 1500,
+    "total": 14700,
+    "pop2022": "2078.0340"
+  },
+  {
+    "country": "Brunei",
+    "activeDuty": 7200,
+    "paramilitary": 450,
+    "reserves": 700,
+    "total": 8350,
+    "pop2022": "445.4310"
+  },
+  {
+    "country": "Estonia",
+    "activeDuty": 7100,
+    "paramilitary": 0,
+    "reserves": 17500,
+    "total": 24600,
+    "pop2022": "1321.9100"
+  },
+  {
+    "country": "Latvia",
+    "activeDuty": 6210,
+    "paramilitary": 0,
+    "reserves": 15900,
+    "total": 22110,
+    "pop2022": "1848.8370"
+  },
+  {
+    "country": "Niger",
+    "activeDuty": 5300,
+    "paramilitary": 5400,
+    "reserves": 0,
+    "total": 10700,
+    "pop2022": "26083.6600"
+  },
+  {
+    "country": "Moldova",
+    "activeDuty": 5150,
+    "paramilitary": 900,
+    "reserves": 58000,
+    "total": 64050,
+    "pop2022": "4013.1710"
+  },
+  {
+    "country": "Gabon",
+    "activeDuty": 4700,
+    "paramilitary": 2000,
+    "reserves": 0,
+    "total": 6700,
+    "pop2022": "2331.5330"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "activeDuty": 4450,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 4450,
+    "pop2022": "2063.3670"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "activeDuty": 4050,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 4050,
+    "pop2022": "1406.5850"
+  },
+  {
+    "country": "Jamaica",
+    "activeDuty": 3950,
+    "paramilitary": 0,
+    "reserves": 980,
+    "total": 4930,
+    "pop2022": "2985.0940"
+  },
+  {
+    "country": "Papua New Guinea",
+    "activeDuty": 3600,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 3600,
+    "pop2022": "9292.1690"
+  },
+  {
+    "country": "Fiji",
+    "activeDuty": 3500,
+    "paramilitary": 0,
+    "reserves": 6000,
+    "total": 9500,
+    "pop2022": "909.4660"
+  },
+  {
+    "country": "Guyana",
+    "activeDuty": 3400,
+    "paramilitary": 0,
+    "reserves": 670,
+    "total": 4070,
+    "pop2022": "794.0450"
+  },
+  {
+    "country": "Montenegro",
+    "activeDuty": 2350,
+    "paramilitary": 10100,
+    "reserves": 0,
+    "total": 12450,
+    "pop2022": "627.9500"
+  },
+  {
+    "country": "Liberia",
+    "activeDuty": 2010,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 2010,
+    "pop2022": "5305.1170"
+  },
+  {
+    "country": "Lesotho",
+    "activeDuty": 2000,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 2000,
+    "pop2022": "2175.6990"
+  },
+  {
+    "country": "Malta",
+    "activeDuty": 1950,
+    "paramilitary": 0,
+    "reserves": 180,
+    "total": 2130,
+    "pop2022": "444.0330"
+  },
+  {
+    "country": "Suriname",
+    "activeDuty": 1840,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 1840,
+    "pop2022": "596.8310"
+  },
+  {
+    "country": "Belize",
+    "activeDuty": 1500,
+    "paramilitary": 150,
+    "reserves": 700,
+    "total": 2350,
+    "pop2022": "412.1900"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "activeDuty": 1450,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 1450,
+    "pop2022": "1496.6620"
+  },
+  {
+    "country": "Bahamas",
+    "activeDuty": 1300,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 1300,
+    "pop2022": "400.5160"
+  },
+  {
+    "country": "Cape Verde",
+    "activeDuty": 1200,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 1200,
+    "pop2022": "567.6780"
+  },
+  {
+    "country": "Luxembourg",
+    "activeDuty": 900,
+    "paramilitary": 600,
+    "reserves": 0,
+    "total": 1500,
+    "pop2022": "642.3710"
+  },
+  {
+    "country": "Gambia",
+    "activeDuty": 800,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 800,
+    "pop2022": "2558.4820"
+  },
+  {
+    "country": "Barbados",
+    "activeDuty": 610,
+    "paramilitary": 0,
+    "reserves": 430,
+    "total": 1040,
+    "pop2022": "288.0230"
+  },
+  {
+    "country": "Seychelles",
+    "activeDuty": 420,
+    "paramilitary": 0,
+    "reserves": 0,
+    "total": 420,
+    "pop2022": "99.4260"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "activeDuty": 180,
+    "paramilitary": 0,
+    "reserves": 80,
+    "total": 260,
+    "pop2022": "99.5090"
+  },
+  {
+    "country": "Haiti",
+    "activeDuty": 150,
+    "paramilitary": 50,
+    "reserves": 0,
+    "total": 200,
+    "pop2022": "11680.2830"
+  },
+  {
+    "country": "Iceland",
+    "activeDuty": 0,
+    "paramilitary": 250,
+    "reserves": 0,
+    "total": 250,
+    "pop2022": "345.3930"
+  },
+  {
+    "country": "Mauritius",
+    "activeDuty": 0,
+    "paramilitary": 2550,
+    "reserves": 0,
+    "total": 2550,
+    "pop2022": "1274.7270"
+  },
+  {
+    "country": "Costa Rica",
+    "activeDuty": 0,
+    "paramilitary": 9800,
+    "reserves": 0,
+    "total": 9800,
+    "pop2022": "5182.3540"
+  },
+  {
+    "country": "Panama",
+    "activeDuty": 0,
+    "paramilitary": 26000,
+    "reserves": 0,
+    "total": 26000,
+    "pop2022": "4446.9640"
+  }
+]
